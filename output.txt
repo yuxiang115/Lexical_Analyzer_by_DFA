@@ -1,0 +1,136 @@
+Source Program:
+Make programming great again
+# main body begins
+Make x number make  y1 z2zz 1w numbers
+Make a b Boolean
+X is 1000000 y1 is 2000000 z is 123456789
+A is fact b  is lie
+As long as, fact or lie ;
+:
+Tell x y1 z2zz say ¡°continue¡±
+If , x plus (y ) times 2000000 more z? ; : tell a b say ¡°stop¡± ! else : make c Boolean !
+C is not not not fact and x less z ? or lie
+Tell a b c x y z
+Say ¡°done¡± # say done
+!
+America is great
+
+
+All Tokens: 
+key		Make
+key		programming
+key		great
+key		again
+key		Make
+[id]		x
+key		number
+key		make
+[id]		y1
+[id]		z2zz
+ERROR		1w
+[id]		numbers
+key		Make
+[id]		a
+[id]		b
+key		Boolean
+[id]		X
+key		is
+[const]		1000000
+[id]		y1
+key		is
+[const]		2000000
+[id]		z
+key		is
+[const]		123456789
+[id]		A
+key		is
+key		fact
+[id]		b
+key		is
+key		lie
+key		As
+key		long
+key		as
+SS		,
+key		fact
+key		or
+key		lie
+SS		;
+SS		:
+key		Tell
+[id]		x
+[id]		y1
+[id]		z2zz
+key		say
+String		¡°continue¡±
+key		If
+SS		,
+[id]		x
+key		plus
+SS		(
+[id]		y
+SS		)
+key		times
+[const]		2000000
+key		more
+[id]		z
+SS		?
+SS		;
+SS		:
+key		tell
+[id]		a
+[id]		b
+key		say
+String		¡°stop¡±
+SS		!
+key		else
+SS		:
+key		make
+[id]		c
+key		Boolean
+SS		!
+[id]		C
+key		is
+key		not
+key		not
+key		not
+key		fact
+key		and
+[id]		x
+key		less
+[id]		z
+SS		?
+key		or
+key		lie
+key		Tell
+[id]		a
+[id]		b
+[id]		c
+[id]		x
+[id]		y
+[id]		z
+key		Say
+String		¡°done¡±
+SS		!
+key		America
+key		is
+key		great
+
+
+
+SYMTAB: 
+x			[id]
+y1			[id]
+z2zz			[id]
+numbers			[id]
+a			[id]
+b			[id]
+1000000			[const]
+2000000			[const]
+z			[id]
+123456789			[const]
+¡°continue¡±			String
+y			[id]
+¡°stop¡±			String
+c			[id]
+¡°done¡±			String
